@@ -251,6 +251,11 @@ footer .cv-pdf i:hover {
     margin: 20px;
 }
 
+/*--------------------------------------------Map*/
+div#map {
+    min-height: 360px;
+}
+
 /*-------------------------------- Three Reasons */
 
 .three-reasons-icon {
